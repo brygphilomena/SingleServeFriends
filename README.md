@@ -28,11 +28,8 @@ Core Concepts of this App:
 * All communication is encrypted at all times. Transmitted over SSL.
 * User Profiles with meal preferences.
 * Engine to match users with similar interests.
-* After meal survey rating various characteristics. (Talkability, Manners, Etiquitte, Tipping, Conversation
-Topics)
+* After meal survey rating various characteristics. (Talkability, Manners, Etiquitte, Tipping, Conversation Topics, Empathy)
 * Users are able to message one another.
 * Meal and Location Reccommendations.
 * Users can mark themselves as "Actively Looking" for an hour and increase likelyhood of coming up as a match.
-* All Users are potential matches at all times (unless blocked) and the app brings up a small set of matches
-for the User to pick from. They can also refresh their matches if they don't want to share a meal with any of
-their matches.
+* All Users are potential matches at all times (unless blocked) and the app brings up a small set of matches for the User to pick from. They can also refresh their matches if they don't want to share a meal with any of their matches.
